@@ -1,3 +1,4 @@
+Этот юзер бот для телеграмма
 зайдите на офиц сайт my.telegram.org/auth получите api hash и api id и вставьте в config.ini
 
 pip install colorama
